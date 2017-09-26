@@ -1,4 +1,4 @@
-continents were assigned tones based on a vaguely left => right reading of their order according to the autograph projection.
+continents were assigned tones based on a vaguely left => right reading of their order according to the authagraph projection.
 
 tones were chosen to begin with A=440 and descend by equal intervals corresponding to the whole-tone, or hexatonic scale.
 
