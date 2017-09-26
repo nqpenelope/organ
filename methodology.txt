@@ -1,0 +1,16 @@
+continents were assigned tones based on a vaguely left => right reading of their order according to the autograph projection.
+
+tones were chosen to begin with A=440 and descend by equal intervals corresponding to the whole-tone, or hexatonic scale.
+
+europe and asia are considered one continent.
+
+melosynth was used to covert csv to wav (with one harmonic added above the fundamental for aesthetic purposes).
+
+values in hz are as follows:
+
+africa			440.000
+eurasia			403.333
+australia		366.667
+north america		330.000
+south america		293.333
+antarctica		256.667
