@@ -8,4 +8,4 @@ Continents were assigned to tones within an equally divided 6 part (hexatonic), 
 
 Created using melosynth and the provided csv.
 
-(jenny-bower.com/continents)[http://jenny-bower.com/continents]
+http://jenny-bower.com/continents
